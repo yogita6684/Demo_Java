@@ -25,7 +25,7 @@ Database Connectivity : JDBC
 
 **Screenshots**
 
-<img width="100" height="1200" alt="image" src="https://github.com/user-attachments/assets/fe2defc1-6b27-41bc-8fcc-8173cb8435b0" />
+<img width="964" height="501" alt="image" src="https://github.com/user-attachments/assets/f22107dc-0488-451a-89b8-b2fb7563b4c5" />
 
 <img width="1062" height="940" alt="image" src="https://github.com/user-attachments/assets/e96ff390-3547-488e-929d-f14373bb3bf6" />
 
