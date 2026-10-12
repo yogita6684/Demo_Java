@@ -24,15 +24,20 @@ Database Connectivity : JDBC
 
 
 **Screenshots**
+Login
+<img width="764" height="401" alt="image" src="https://github.com/user-attachments/assets/f22107dc-0488-451a-89b8-b2fb7563b4c5" />
 
-<img width="864" height="401" alt="image" src="https://github.com/user-attachments/assets/f22107dc-0488-451a-89b8-b2fb7563b4c5" />
-
+Signup1
 <img width="1062" height="940" alt="image" src="https://github.com/user-attachments/assets/e96ff390-3547-488e-929d-f14373bb3bf6" />
 
+Signup2
 <img width="1061" height="921" alt="image" src="https://github.com/user-attachments/assets/4bfc1195-887b-4601-b2eb-153b556c565d" />
 
+Signup3
 <img width="1062" height="918" alt="image" src="https://github.com/user-attachments/assets/62a304be-9f11-4dde-8232-aa5e97b12144" />
 
+Main file
 <img width="1242" height="831" alt="image" src="https://github.com/user-attachments/assets/c91e29bf-cbf5-426a-a6a1-f3871d218078" />
 
+Forgot
 <img width="879" height="626" alt="image" src="https://github.com/user-attachments/assets/47c8e292-18c1-4e8d-ad97-d97f2916ab0a" />
