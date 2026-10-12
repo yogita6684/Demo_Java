@@ -24,8 +24,9 @@ Database Connectivity : JDBC
 
 
 **Screenshots**
+
 Login
-<img width="764" height="401" alt="image" src="https://github.com/user-attachments/assets/f22107dc-0488-451a-89b8-b2fb7563b4c5" />
+![Uploading image.png…]()
 
 Signup1
 <img width="1062" height="940" alt="image" src="https://github.com/user-attachments/assets/e96ff390-3547-488e-929d-f14373bb3bf6" />
